@@ -1,3 +1,12 @@
+# ORGANO
+Projeto fictício desenvolvido com React durante curso da Alura.
+
+## Acesse
+Acesse o projeto funcionando no link:
+https://organo-lovat-ten.vercel.app/
+
+### `INSTALL`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
